@@ -43,7 +43,7 @@ export default function Home() {
       {posts.length === 0 ? (
         <div className="text-center text-neutral-content py-20">
           <h2 className="text-xl">Belum ada post.</h2>
-          <p className="text-sm opacity-70">Klik "Tambah Post" untuk mulai menambahkan.</p>
+          <p className="text-sm opacity-70">Klik &quot;Tambah Post&quot; untuk mulai menambahkan.</p>
         </div>
       ) : (
         <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
