@@ -10,9 +10,8 @@ A simple CRUD (Create, Read, Update, Delete), styled using [TailwindCSS](https:/
 
 - ✅ Create, Read, Update, Delete Posts
 - ⚡ Powered by App Router (`app/` directory)
-- 🎨 Beautiful UI with DaisyUI + Tailwind
+- 🎨 UI with DaisyUI + Tailwind
 - 💾 Data stored in `localStorage` (client-side)
-- 📱 Responsive design
 - 🌐 Deployed on Vercel
 
 ---
