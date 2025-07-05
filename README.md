@@ -24,7 +24,7 @@ A simple CRUD (Create, Read, Update, Delete), styled using [TailwindCSS](https:/
 
 ## 🛠️ Tech Stack
 
-- **Framework:** Next.js 14+ (App Router)
+- **Framework:** Next.js (App Router)
 - **Styling:** TailwindCSS, DaisyUI
 - **TypeScript**
 - **Deployment:** Vercel
